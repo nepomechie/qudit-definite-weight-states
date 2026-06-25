@@ -11,4 +11,6 @@ $\bullet$ $SU(3)$ Bethe states (eigenstates of the integrable $SU(3)$-invariant 
 
 The preparation of $U(1)^{d-1}$-eigenstates with random real or complex amplitudes is also illustrated.
 
+A separate file (su3BetheDescendants.ipynb) focuses on preparing lower-weight descendants of the $SU(3)$ Bethe states, which are $SU(3)$ highest-weight states.
+
 This code can be run on Google colab  ( https://colab.google/ ) or locally, using python (3.12.1) and cirq (1.5.0)
