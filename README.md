@@ -1,5 +1,5 @@
 # Preparing multi-qudit states in a definite-weight subspace  https://arxiv.org/abs/2606.24659 
-Cirq code for preparing arbitrary multi-qudit states with definite weight.
+The file qudit-state-preparation.ipynb contains cirq code for preparing arbitrary multi-qudit states with definite weight.
 
 As examples, the preparation of the following states is considered:
 
